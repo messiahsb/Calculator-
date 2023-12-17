@@ -1,0 +1,29 @@
+:root {
+	--black: #2b2929;
+	--: ;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;	
+}
+
+/* Calculator Styling */
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* Screen Styling */
+.screen{
+
+}
+/* Button Styling */
+button{
+    border: none;
+}
+.buttons{
+    display: grid;
+    border-radius: 50px;
+}
